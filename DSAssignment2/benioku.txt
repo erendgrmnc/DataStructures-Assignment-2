@@ -1,0 +1,1 @@
+Programın düzgün çalışması için gerekli .txt uzantılı dosyanın isminin "sakarya.txt" olmalı ve bin klasörünün içinde olmalıdır.
